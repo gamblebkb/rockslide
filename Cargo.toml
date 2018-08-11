@@ -1,0 +1,6 @@
+[package]
+name = "rockslide"
+version = "0.1.0"
+authors = ["cosmin <cosminpetcu@live.com>"]
+
+[dependencies]
